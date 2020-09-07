@@ -12,6 +12,7 @@ predictor variables.We need to identify which customer is "defaulted" and "Not-d
 
 1. Age -  Age of each customer -  Numerical
 2. Education -  Education categories - Categorical
+
 3 Employment -  Employment status Corresponds to job status and being converted to numeric format  - Numerical
 4 Address Geographic area Converted to numeric values - Numerical
 5 Income -  Gross Income of each customer - Numerical
